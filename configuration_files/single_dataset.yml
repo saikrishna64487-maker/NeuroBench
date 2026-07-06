@@ -1,0 +1,62 @@
+name: "Mantegna2019"
+
+dataset: 
+  - name: Mantegna2019
+    from: neuroIDBench.datasets
+    parameters: 
+      subjects: 10
+      interval: [-0.1, 0.9]
+     # rejection_threshold: 200
+
+pipelines:
+
+  # "AR+PSD+SVM": 
+  #   - name: AutoRegressive
+  #     from: neuroIDBench.featureExtraction
+  #     parameters: 
+  #       order: 6
+        
+  #   - name: PowerSpectralDensity
+  #     from: neuroIDBench.featureExtraction
+        
+  #   - name: SVC
+  #     from: sklearn.svm
+  #     parameters: 
+  #       kernel: 'rbf'
+  #       class_weight: "balanced"
+  #       probability: True
+  #       C: 1.0
+
+  "TNN": 
+  - name : TwinNeuralNetwork
+    from: neuroIDBench.featureExtraction
+    parameters: 
+      EPOCHS: 10
+      batch_size: 256
+      verbose: 1
+      workers: 1
+
+  
+  # "AR+PSD+KNN": 
+  # - name: AutoRegressive
+  #   from: neuroIDBench.featureExtraction
+  #   parameters: 
+  #     order: 6
+    
+  # - name: PowerSpectralDensity
+  #   from: neuroIDBench.featureExtraction
+      
+  # - name: KNeighborsClassifier
+  #   from: sklearn.neighbors
+  #   # parameters: 
+  #   #     class_weight: "balanced"
+
+    
+ 
+
+  
+  
+
+
+
+
