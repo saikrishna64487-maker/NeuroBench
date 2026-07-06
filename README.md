@@ -10,8 +10,7 @@
 
 This repository serves as a comprehensive resource for NeuroIDBench. It encompasses the entire implementation codebase along with a collection of illustrative examples for conducting benchmarking experiments using this powerful tool. Please note that while this repository is a valuable resource for code and methodologies, it does not include the proprietary or sensitive data utilized in our thesis.
 
-The respository was intially created as part of the master thesis conducted by Myana Sai Krishna (https://avichaurasia.github.io/). It was written at the [IT Security](https://en.cs.uni-paderborn.de/its) group at Paderborn University, Germany under the supervision of Prof. Dr. [Patricia Arias Cabarcos](https://twitter.com/patriAriasC), who also leads the group. Further, the implementation aspects of this benchmarking tool was supervised by M.Sc [Matin Fallahi](https://ps.tm.kit.edu/english/21_318.php), a reserach associate at Kalrsruhe Insistute of Technology, Germany. 
-
+The respository was intially created as part of the master thesis conducted by Myana Sai Krishna ((https://github.com/saikrishna64487-maker/NeuroBench.git)). 
 
 
 ## Table of Contents
@@ -176,16 +175,7 @@ classifiers. A
 </div>
 
 
-## Cite our work
 
-```bash
-@article{chaurasia2024neurobench,
-  title={NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research},
-  author={Chaurasia, Avinash Kumar and Fallahi, Matin and Strufe, Thorsten and Terh{\"o}rst, Philipp and Cabarcos, Patricia Arias},
-  journal={arXiv preprint arXiv:2402.08656},
-  year={2024}
-}
-```
 
 ## References
 
