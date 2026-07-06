@@ -10,9 +10,9 @@
 
 This repository serves as a comprehensive resource for NeuroIDBench. It encompasses the entire implementation codebase along with a collection of illustrative examples for conducting benchmarking experiments using this powerful tool. Please note that while this repository is a valuable resource for code and methodologies, it does not include the proprietary or sensitive data utilized in our thesis.
 
-The respository was intially created as part of the master thesis conducted by M.Sc [Avinash Kumar Chaurasia](https://avichaurasia.github.io/). It was written at the [IT Security](https://en.cs.uni-paderborn.de/its) group at Paderborn University, Germany under the supervision of Prof. Dr. [Patricia Arias Cabarcos](https://twitter.com/patriAriasC), who also leads the group. Further, the implementation aspects of this benchmarking tool was supervised by M.Sc [Matin Fallahi](https://ps.tm.kit.edu/english/21_318.php), a reserach associate at Kalrsruhe Insistute of Technology, Germany. 
+The respository was intially created as part of the master thesis conducted by Myana Sai Krishna (https://avichaurasia.github.io/). It was written at the [IT Security](https://en.cs.uni-paderborn.de/its) group at Paderborn University, Germany under the supervision of Prof. Dr. [Patricia Arias Cabarcos](https://twitter.com/patriAriasC), who also leads the group. Further, the implementation aspects of this benchmarking tool was supervised by M.Sc [Matin Fallahi](https://ps.tm.kit.edu/english/21_318.php), a reserach associate at Kalrsruhe Insistute of Technology, Germany. 
 
-Moreover, a reaearch paper was written as an extension of the master thesis. The paper was submitted to the [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) on 31st January 2024. While the paper undergoes review, Pre-Print of the paper can be found at [Arxiv](https://arxiv.org/abs/2402.08656).  
+
 
 ## Table of Contents
 
